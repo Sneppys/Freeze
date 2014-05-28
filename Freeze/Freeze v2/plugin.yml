@@ -1,0 +1,7 @@
+name: Freeze
+version: 1.0
+main: com.elllzman.java.Freeze.Main
+commands:
+  Fr:
+    permission: Freeze.OP
+    usage: /fr <*/Player>

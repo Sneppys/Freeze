@@ -1,0 +1,8 @@
+Freeze OP's: true
+Apply Blindness to players: true
+Unfreeze message: All players are now unfrozen
+Freeze message: All players are now frozen
+PlayerFreeze message:   has been frozen
+PlayerUnfreeze message:  " has been unfrozen"
+Bukkit Freeze Enabled: true
+	
