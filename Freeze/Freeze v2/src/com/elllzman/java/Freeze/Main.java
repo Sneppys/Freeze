@@ -210,7 +210,7 @@ public class Main extends JavaPlugin implements Listener {
 							return false;
 						}
 
-						if(OpCheck(P)==false)
+						if(P.isOp()==true&&OpCheck(P)==false)
 						{
 							sender.sendMessage("That player is OP and Freezing OP's is not enabled!");
 							return true;

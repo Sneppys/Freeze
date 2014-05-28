@@ -4,4 +4,4 @@ main: com.elllzman.java.Freeze.Main
 commands:
   Fr:
     permission: Freeze.OP
-    usage: /fr <*/Player>
+    usage: &e /fr <*/Player>
